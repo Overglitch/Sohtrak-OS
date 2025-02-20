@@ -111,4 +111,6 @@ systemctl --user enable pipewire wireplumber
 ---
 
 ## 📸 **Capturas de Pantalla**  
-![Sothrak-OS](https://github.com/user-attachments/assets/c1360f23-3db6-4de1-866e-c9bbbf827e7c)  
+| ![Sothrak-OS](https://github.com/user-attachments/assets/c1360f23-3db6-4de1-866e-c9bbbf827e7c) |
+|:--:|
+| *Sothrak-OS* |
